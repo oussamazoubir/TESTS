@@ -1,0 +1,1 @@
+ fonction qui prend un array de string en argument et qui renvoie le nombre d'éléments dont la longueur est supérieure strictement à 50. Vous êtes dans l'obligation pour cet exercice d'utiliser jest et de tester la fonction précédente de manière unitaire
